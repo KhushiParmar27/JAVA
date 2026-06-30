@@ -7,7 +7,7 @@ public class Practical1 {
         double salary = 3500.75;
         char grade = 'A';
         boolean isStudent = true;
-        String name = "Khushii";
+        String name = "Khushi";
 
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
